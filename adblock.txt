@@ -1,0 +1,61 @@
+@@||ecosia.org^$important
+@@||ecosia.org^
+@@||*.ecosia.org^
+@@||*.ecosia.org^$important
+@@||www.ecosia.org^
+@@||www.ecosia.org^$important
+@@||local.adguard.org^$important
+@@||dns.adguard.org^$important
+@@||dns.adguard.org^
+@@||*.dns.adguard.org^
+@@||adguard.org^$important
+@@||*.adguard.org^$important
+@@||www.adguard.org^$important
+@@||cloudflare-dns.com^
+@@||*.cloudflare-dns.com^
+@@||cloudflare-dns.com^$important
+@@||*.cloudflare-dns.com^$important
+@@||dashlane.com^
+@@||*.dashlane.com^
+@@||dashlane.com^$important
+@@||*.dashlane.com^$important
+@@||www.dashlane.com^
+@@||www.dashlane.com^$important
+@@||honeygain.com^
+@@||*.honeygain.com^
+@@||honeygain.com^$important
+@@||*.honeygain.com^$important
+@@||www.honeygain.com^
+@@||www.honeygain.com^$important
+@@||local.adguard.com^$important
+@@||dns.adguard.com^$important
+@@||dns.adguard.com^
+@@||*.dns.adguard.com^
+@@||adguard.com^$important
+@@||*.adguard.com^$important
+@@||www.adguard.com^$important
+@@||www.ecosia.org^$important,document
+younow.com##modal-container.modal.fade.show:last-child > div.modal-dialog.small > div.modal-content > app-modal-non-payer > div.modal-body
+younow.com##modal-container.modal.fade:last-child
+@@||www.youtube.com^$important,document
+@@||www.netflix.com^$important,document
+@@||192.168.3.1^$important,document
+@@||www.peacocktv.com^$important,document
+@@||www.vodafone.co.uk^$important,document
+@@||dashboard.honeygain.com^$important,document
+@@||192.168.0.1^$important,document
+clipwatching.com###container > div:nth-child(11) > div.hidden-xs:last-child
+clipwatching.com###content
+clipwatching.com###container > p:nth-child(7)
+clipwatching.com###_header
+clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child > div.container-fluid
+clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child
+clipwatching.com##footer:nth-child(4) > div.container-fluid
+@@||captcha.website^$important,document
+@@||secure.lloydsbank.co.uk^$important,document
+@@||github.com^$important,document
+@@||github.com^$important,document
+@@||www.magicmushroommap.org^$important,document
+@@||www.bbc.co.uk^$important,document
+@@||adguard.com^$important,document
+123movieshub.pe###main > div.container > div.container:last-child > div.ann-home.alert.text-center:nth-child(5)
