@@ -59,3 +59,9 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||www.bbc.co.uk^$important,document
 @@||adguard.com^$important,document
 123movieshub.pe###main > div.container > div.container:last-child > div.ann-home.alert.text-center:nth-child(5)
+@@||github.com^
+@@||www..github.com^
+@@||*.github.com^
+@@||github.com^$important
+@@||www..github.com^$important
+@@||*.github.com^$important
