@@ -65,6 +65,7 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||github.com^$important
 @@||www..github.com^$important
 @@||*.github.com^$important
+!Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 ||1-1ads.com^
 ||101com.com^
 ||101order.com^
