@@ -1,5 +1,8 @@
 # Custom AdguardHome List
 
-Go to https://raw.githubusercontent.com/KittySaysRawr/CustomAdguardHomeList/main/adblock.txt
+Copy URL: https://raw.githubusercontent.com/KittySaysRawr/CustomAdguardHomeList/main/adblock.txt
 
-Copy and paste into Adguard Home > Filters > Custom filtering rules
+Go to: Adguard Home > Filters > DNS blocklists 
+
+       Add blocklist > Add custom list
+
