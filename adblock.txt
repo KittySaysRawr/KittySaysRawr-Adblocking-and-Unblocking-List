@@ -122,3 +122,11 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||www.bbc.co.uk^$important
 @@||www.bbc.com^$important
 @@||amp.dashlane.com^
+@@||*.wigan.gov.uk^
+@@||wigan.gov.uk^
+@@||www.cusecureserver.co.uk^
+@@||cusecureserver.co.uk^
+@@||*.cusecureserver.co.uk^$important
+@@||www.unifycu.org^
+@@||unifycu.org^
+@@||*.unifycu.org^$imporant
