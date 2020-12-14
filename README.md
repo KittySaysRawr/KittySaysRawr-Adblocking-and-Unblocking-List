@@ -17,3 +17,7 @@ Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocki
        Go to: Menu bar > Adguard > Settings > Preferences > Filters
 
               Add Filter > Add Custom Filter
+
+# Adguard Android Installation
+
+      Go to: Adguard > 
