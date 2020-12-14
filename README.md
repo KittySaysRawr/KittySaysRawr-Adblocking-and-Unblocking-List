@@ -1,4 +1,4 @@
-# KittySaysRawr Adblocking and Unblocking List
+# Adblocking and Unblocking List
 
 Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocking-and-Unblocking-List/main/adblock.txt
 
