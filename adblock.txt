@@ -1,3 +1,5 @@
+! Adblocking/Unblocking List
+
 @@||ecosia.org^$important
 @@||ecosia.org^
 @@||*.ecosia.org^
