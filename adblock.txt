@@ -1,4 +1,5 @@
 ! Adblocking/Unblocking List
+! Credits: Pastul Inc ©
 
 @@||ecosia.org^$important
 @@||ecosia.org^
