@@ -167,3 +167,4 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.discord.com^$important,document
 @@||ssl764977.cloudflaressl.com^
 @@||*.cloudflaressl.com^$important
+@@||www.nexusmods.com^$important,document
