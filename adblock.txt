@@ -1,5 +1,4 @@
 ! Adblocking/Unblocking List
-!   © Pastul Inc
 
 @@||ecosia.org^$important
 @@||ecosia.org^
