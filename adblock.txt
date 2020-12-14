@@ -130,3 +130,6 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||www.unifycu.org^
 @@||unifycu.org^
 @@||*.unifycu.org^$imporant
+@@||*.ca-central-1.prod.ecosia.org^
+@@||*.eu-central-1.prod.ecosia.org^
+@@||*.us-east-1.prod.ecosia.org^
