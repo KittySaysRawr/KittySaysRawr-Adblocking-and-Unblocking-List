@@ -1,4 +1,4 @@
-# Custom AdguardHome List
+# Pastul-Inc-Adblocking-Unblocking-List
 
 Copy URL: https://raw.githubusercontent.com/KittySaysRawr/Custom-Adguard-Home-List/main/adblock.txt
 
