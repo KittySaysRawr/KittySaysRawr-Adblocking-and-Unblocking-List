@@ -5,9 +5,9 @@ Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocki
 
 
 
-# Adguard Home Installation 
+# Adguard Home Installation
 
-       Go to: Adguard Home > Filters > DNS blocklists 
+       Go to: Adguard Home > Filters > DNS blocklists
 
               Add blocklist > Add custom list
 
@@ -15,6 +15,5 @@ Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocki
 # Adguard Mac OS Installation
 
        Go to: Menu bar > Adguard > Settings > Preferences > Filters
-       
-              Add Filter > Add Custom Filter
 
+              Add Filter > Add Custom Filter
