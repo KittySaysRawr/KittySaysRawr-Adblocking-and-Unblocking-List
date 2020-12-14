@@ -159,3 +159,9 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.protonmail.ch^
 @@||pm.me^
 @@||*.pm.me^
+@@||*.discord.com^
+@@||discord.com^
+@@||discord.com^$important,document
+@@||*.discord.com^$important,document
+@@||ssl764977.cloudflaressl.com^
+@@||*.cloudflaressl.com^$important
