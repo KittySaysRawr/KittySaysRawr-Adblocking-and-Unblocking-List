@@ -136,3 +136,26 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||*.www.cloudflare.com^
 @@||*.dash.cloudflare.com^
 @@||dash.cloudflare.com^
+@@||www.dashlane.com^$important,document
+@@||housingonline.wigan.gov.uk^$important,document
+@@||www.unifycu.org^$important,document
+@@||www.cusecureserver.co.uk^$important,document
+habbo.com##div.content:first-child > habbo-header-small:first-child > habbo-header-ad:first-child > div.header-ad > habbo-ad-unit.header-ad__ad > habbo-ad-double-click
+habbo.com###div-gpt-ad-1
+habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > section:last-child > habbo-ad-unit.aside.aside--fixed:nth-child(3) > habbo-ad-double-click
+@@||protonmail.com^$important,document
+@@||protonmail.com^
+@@||*.protonmail.com^
+@@||mail.protonmail.com^
+@@||beta.protonmail.com^
+@@||old.protonmail.com^
+@@||secure.protonmail.com^
+@@||app.protonmail.ch^
+@@||*.protonmail.ch^
+@@||account.protonvpn.com^
+@@||*.protonvpn.com^
+@@||protonvpn.com^
+@@||protonmail.ch^
+@@||*.protonmail.ch^
+@@||pm.me^
+@@||*.pm.me^
