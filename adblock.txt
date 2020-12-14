@@ -133,3 +133,4 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
+@@||*.www.cloudflare.com^
