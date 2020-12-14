@@ -121,3 +121,4 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||*.bbc.com^$important
 @@||www.bbc.co.uk^$important
 @@||www.bbc.com^$important
+@@||amp.dashlane.com^
