@@ -11,3 +11,9 @@ Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocki
 
               Add blocklist > Add custom list
 
+
+# Adguard Mac OS Installation
+
+       Go to: Menu bar > Adguard > Settings > Preferences > Filters
+       
+              Add Filter > Add Custom Filter
