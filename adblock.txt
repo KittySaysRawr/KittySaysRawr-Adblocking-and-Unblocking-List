@@ -65,3 +65,7 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 @@||github.com^$important
 @@||www..github.com^$important
 @@||*.github.com^$important
+@@||dash.cloudflare.com^$important,document
+@@||www.cloudflare.com^$important,document
+@@||cloudflare-dns.com^$important,document
+@@||1.1.1.1^$important,document
