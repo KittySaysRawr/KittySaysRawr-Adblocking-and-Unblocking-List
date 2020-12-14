@@ -5,7 +5,7 @@ Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocki
 
 
 
-# Adguard Home Instillation 
+# Adguard Home Installation 
 
        Go to: Adguard Home > Filters > DNS blocklists 
 
