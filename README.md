@@ -1,6 +1,6 @@
-# Pastul-Inc-Adblocking-Unblocking-List
+# KittySaysRawr Adblocking and Unblocking List
 
-Copy URL: https://raw.githubusercontent.com/KittySaysRawr/Pastul-Inc-Adblocking-Unblocking-List/main/adblock.txt
+Copy URL: https://raw.githubusercontent.com/KittySaysRawr/KittySaysRawr-Adblocking-and-Unblocking-List/main/adblock.txt
 
        Go to: Adguard Home > Filters > DNS blocklists 
 
