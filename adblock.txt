@@ -169,3 +169,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||ssl764977.cloudflaressl.com^
 @@||*.cloudflaressl.com^$important
 @@||www.nexusmods.com^$important,document
+@@||ws1.dashlane.com^
+@@||api.honeygain.com^
