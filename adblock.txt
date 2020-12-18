@@ -195,3 +195,4 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||api.ecosia.org^
 @@||sp.ecosia.org^
 @@||cdn.ecosia.org^
+@@||info.ecosia.org^
