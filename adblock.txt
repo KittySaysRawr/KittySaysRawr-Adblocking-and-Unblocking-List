@@ -177,6 +177,11 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||bcdn-16c9d93d.lloydsbank.co.uk^$important
 @@||lloydsbankinggroup.d3.sc.omtrdc.net^$important
 @@||cem.lloydsbank.co.uk^$important
+@@||secure.lloydsbank.co.uk^
 @@||online.lloydsbank.co.uk^
 @@||*.lloydsbank.co.uk^$important
 @@||aa.online-metrix.net^$important
+@@||lptag.liveperson.net^
+@@||dpm.demdex.net^$important
+@@||tags.tiqcdn.com^$important
+@@||h-lloydsbank.online-metrix.net^$important
