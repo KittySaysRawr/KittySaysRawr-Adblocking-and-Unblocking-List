@@ -202,3 +202,8 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.pastul.xyz^$important
 @@||pastul.xyz^$important
 @@||www.pastul.xyz^
+@@||dcc.godaddy.com^$important,document
+@@||account.godaddy.com^$important,document
+@@||pastul.xyz^$important,document
+@@||192.168.1.1^$important,document
+@@||192.168.1.104^$important,document
