@@ -172,3 +172,10 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||ws1.dashlane.com^
 @@||api.honeygain.com^
 @@||safebrowsing.googleapis.com^
+@@||www.clicksafe.lloydstsb.com^
+@@||*.lloydstsb.com^
+@@||bcdn-16c9d93d.lloydsbank.co.uk^$important
+@@||lloydsbankinggroup.d3.sc.omtrdc.net^$important
+@@||cem.lloydsbank.co.uk^$important
+@@||online.lloydsbank.co.uk^
+@@||*.lloydsbank.co.uk^$important
