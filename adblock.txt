@@ -199,3 +199,6 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 ||www.buysellads.com^
 ||*.buysellads.com^$important
 @@||ionos.co.uk.ssl.sc.omtrdc.net^$important
+@@||*.pastul.xyz^$important
+@@||pastul.xyz^$important
+@@||www.pastul.xyz^
