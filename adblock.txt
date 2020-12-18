@@ -198,3 +198,4 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||info.ecosia.org^
 ||www.buysellads.com^
 ||*.buysellads.com^$important
+@@||ionos.co.uk.ssl.sc.omtrdc.net^$important
