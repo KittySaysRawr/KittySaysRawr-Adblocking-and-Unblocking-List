@@ -185,3 +185,9 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
 @@||h-lloydsbank.online-metrix.net^$important
+@@||nav.files.bbci.co.uk^
+@@||iplayer-web.files.bbci.co.uk^
+@@||ichef.bbci.co.uk^
+@@||mybbc.files.bbci.co.uk^
+@@||emp.bbci.co.uk^
+@@||idcta.api.bbc.co.uk^
