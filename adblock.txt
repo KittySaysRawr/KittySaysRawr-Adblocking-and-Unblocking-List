@@ -196,3 +196,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||sp.ecosia.org^
 @@||cdn.ecosia.org^
 @@||info.ecosia.org^
+||www.buysellads.com^
+||*.buysellads.com^$important
