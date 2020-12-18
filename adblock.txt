@@ -179,3 +179,4 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||cem.lloydsbank.co.uk^$important
 @@||online.lloydsbank.co.uk^
 @@||*.lloydsbank.co.uk^$important
+@@||aa.online-metrix.net^$important
