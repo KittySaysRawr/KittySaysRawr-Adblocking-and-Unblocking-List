@@ -217,3 +217,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.noip.com^$important
 @@||atom.io^
 @@||*.atom.io^
+@@||windowsupdate.com^
+@@||*.windowsupdate.com^$important
