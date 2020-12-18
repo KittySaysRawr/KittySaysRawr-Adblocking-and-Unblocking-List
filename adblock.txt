@@ -191,3 +191,4 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||mybbc.files.bbci.co.uk^
 @@||emp.bbci.co.uk^
 @@||idcta.api.bbc.co.uk^
+@@||static.files.bbci.co.uk^
