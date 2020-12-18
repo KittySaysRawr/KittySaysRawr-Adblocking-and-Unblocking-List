@@ -192,3 +192,6 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||emp.bbci.co.uk^
 @@||idcta.api.bbc.co.uk^
 @@||static.files.bbci.co.uk^
+@@||api.ecosia.org^
+@@||sp.ecosia.org^
+@@||cdn.ecosia.org^
