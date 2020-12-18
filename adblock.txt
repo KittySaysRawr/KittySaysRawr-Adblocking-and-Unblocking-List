@@ -212,3 +212,8 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.nist.gov^$important
 @@||time.android.com^
 @@||time-osx.g.aaplimg.com^
+@@||*.apple-dns.net^
+@@||apple-dns.net^
+@@||*.noip.com^$important
+@@||atom.io^
+@@||*.atom.io^
