@@ -254,3 +254,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.cloudpanel.ionos.co.uk^
 @@||my.ionos.co.uk^
 @@||*.my.ionos.co.uk^
+@@||email.ionos.co.uk^
+@@||*.email.ionos.co.uk^
