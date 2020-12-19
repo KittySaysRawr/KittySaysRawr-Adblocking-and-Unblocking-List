@@ -256,3 +256,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.my.ionos.co.uk^
 @@||email.ionos.co.uk^
 @@||*.email.ionos.co.uk^
+||microshop.ionos.co.uk^
+||*.microshop.ionos.co.uk^
