@@ -252,3 +252,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.googlevideo.com^
 @@||cloudpanel.ionos.co.uk^
 @@||*.cloudpanel.ionos.co.uk^
+@@||my.ionos.co.uk^
+@@||*.my.ionos.co.uk^
