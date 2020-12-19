@@ -245,7 +245,7 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.nintendo.ru^
 @@||nintendoofamerica.tt.omtrdc.net^
 @@||zn5aocakgjj2uagxj-nintendoofamerica.siteintercept.qualtrics.com^$important
-@@||nintendoofamericainc.demdex.net^$important
+@@||nintendoofamericainc.demdex.net^
 ||adservice.google.co.uk^
 ||*.adservice.google.co.uk^
 @@||*.in-addr.arpa^$important
