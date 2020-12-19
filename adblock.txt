@@ -272,3 +272,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 ||scorecardresearch.com^
 ||*.getclicky.com^
 ||getclicky.com^
+||*.advertising.amazon.co.uk^
+||advertising.amazon.co.uk^
