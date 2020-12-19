@@ -274,3 +274,12 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 ||getclicky.com^
 ||*.advertising.amazon.co.uk^
 ||advertising.amazon.co.uk^
+@@||steampowered.com^
+@@||*.steampowered.com^
+@@||steamcontent.com^
+@@||*.steamcontent.com^
+||license.piriform.com^
+@@||mojang.com^
+@@||*.mojang.com^
+@@||minecraft.net^
+@@||*.minecraft.net^
