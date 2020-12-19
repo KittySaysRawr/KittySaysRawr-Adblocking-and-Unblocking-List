@@ -283,3 +283,8 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.mojang.com^
 @@||minecraft.net^
 @@||*.minecraft.net^
+||metrics.icloud.com^
+@@||*.cd4o.com^
+@@||cd4o.com^
+@@||driverboosterscan.com^
+@@||*.driverboosterscan.com^
