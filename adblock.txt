@@ -263,6 +263,8 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.logo-net.co.uk^
 @@||logo-net.co.uk^
 ||*.google-analytics.com^
+||*.google-analytics.co.uk^
+||google-analytics.co.uk^
 ||google-analytics.com^
 ||*.siteimprove.com^
 ||siteimprove.com^
@@ -274,6 +276,8 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 ||getclicky.com^
 ||*.advertising.amazon.co.uk^
 ||advertising.amazon.co.uk^
+||advertising.amazon.com^
+||*.advertising.amazon.com^
 @@||steampowered.com^
 @@||*.steampowered.com^
 @@||steamcontent.com^
