@@ -250,3 +250,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 ||*.adservice.google.co.uk^
 @@||*.in-addr.arpa^$important
 @@||*.googlevideo.com^
+@@||cloudpanel.ionos.co.uk^
+@@||*.cloudpanel.ionos.co.uk^
