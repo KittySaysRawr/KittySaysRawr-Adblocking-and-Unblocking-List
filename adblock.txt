@@ -305,3 +305,5 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.pastul.co.uk^
 @@||pastul.co^
 @@||*.pastul.co^
+@@||minecraftservices.com^
+@@||*.minecraftservices.com^
