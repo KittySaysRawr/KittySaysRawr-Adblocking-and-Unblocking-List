@@ -301,3 +301,7 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||cd4o.com^
 @@||driverboosterscan.com^
 @@||*.driverboosterscan.com^
+@@||pastul.co.uk^
+@@||*.pastul.co.uk^
+@@||pastul.co^
+@@||*.pastul.co^
