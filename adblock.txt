@@ -82,6 +82,8 @@
 ||*.topblockchainsolutions.nl^
 ||customer.io^
 ||*.customer.io^
+||test-iq.org^
+||*.test-iq.org^
 
 
 ! Element-Block-list:
