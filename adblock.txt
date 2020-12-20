@@ -31,6 +31,9 @@
 ||*.advertising.amazon.com^
 ||license.piriform.com^
 ||metrics.icloud.com^
+||adlightning.com^
+||*.adlightning.com^
+
 
 ! Element-Block-list:
 
@@ -202,8 +205,7 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
-@@||*.www.cloudflare.com^
-@@||*.dash.cloudflare.com^
+@@||*.cloudflare.com^
 @@||dash.cloudflare.com^
 @@||www.dashlane.com^$important,document
 @@||housingonline.wigan.gov.uk^$important,document
@@ -229,7 +231,6 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||discord.com^
 @@||discord.com^$important,document
 @@||*.discord.com^$important,document
-@@||ssl764977.cloudflaressl.com^
 @@||*.cloudflaressl.com^$important
 @@||www.nexusmods.com^
 @@||ws1.dashlane.com^
@@ -335,3 +336,8 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||*.pastul.co^
 @@||minecraftservices.com^
 @@||*.minecraftservices.com^
+@@||letsencrypt.org^
+@@||*.letsencrypt.org^
+@@||api.enthusiastgaming.net^
+@@||adtidy.org^
+@@||*.adtidy.org^
