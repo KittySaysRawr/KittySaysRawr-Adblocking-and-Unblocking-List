@@ -34,6 +34,19 @@
 
 ! Element-Block-list:
 
+nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_1_N\/NEX0728x0090_1_N_WindowLoadedTest-A_0
+nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:first-child
+nexusmods.com###primis_playerSekindoSPlayer5fdef1c90aa72
+nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_3_N\/NEX0728x0090_3_N_WindowLoadedTest-A_0
+nexusmods.com##div.wrapper:nth-child(14) > section.static.gameindex:nth-child(2) > div.agroup.clearfix:nth-child(6) > div.ads:first-child > div.ad.demo-billboard.ad-unit:last-child
+nexusmods.com###qc-cmp2-persistent-link
+nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_2_N\/NEX0728x0090_2_N_WindowLoadedTest-A_0
+nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5) > div.ads:first-child
+nexusmods.com##.ads
+nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
+nexusmods.com##.qc-cmp2-persistent-link
+nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5)
+nexusmods.com###primis_playerSekindoSPlayer5fdef31180a5d
 younow.com##modal-container.modal.fade.show:last-child > div.modal-dialog.small > div.modal-content > app-modal-non-payer > div.modal-body
 younow.com##modal-container.modal.fade:last-child
 clipwatching.com###container > div:nth-child(11) > div.hidden-xs:last-child
