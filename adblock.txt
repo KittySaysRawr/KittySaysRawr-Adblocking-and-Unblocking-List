@@ -60,6 +60,19 @@ clipwatching.com##footer:nth-child(4) > div.container-fluid
 habbo.com##div.content:first-child > habbo-header-small:first-child > habbo-header-ad:first-child > div.header-ad > habbo-ad-unit.header-ad__ad > habbo-ad-double-click
 habbo.com###div-gpt-ad-1
 habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > section:last-child > habbo-ad-unit.aside.aside--fixed:nth-child(3) > habbo-ad-double-click
+nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:first-child
+nexusmods.com###transparentInner
+nexusmods.com###transparentCover
+nexusmods.com###videoContainerDiv > img:last-child
+nexusmods.com###videoContainerDiv > div:first-child > video
+nexusmods.com###playBtn
+nexusmods.com###videoContainerDiv > div:first-child
+nexusmods.com###videoContainerDiv
+nexusmods.com###Video-iFrame-SekindoSPlayer5fdef42229157
+nexusmods.com###primis_playerSekindoSPlayer5fdef42229157
+nexusmods.com###qc-cmp2-persistent-link
+nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5) > div.ads:first-child > div.ad.demo-billboard.ad-unit:last-child
+nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 
 
 ! Allow-list:
@@ -218,7 +231,7 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 @@||*.discord.com^$important,document
 @@||ssl764977.cloudflaressl.com^
 @@||*.cloudflaressl.com^$important
-@@||www.nexusmods.com^$important,document
+@@||www.nexusmods.com^
 @@||ws1.dashlane.com^
 @@||api.honeygain.com^
 @@||safebrowsing.googleapis.com^
