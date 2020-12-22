@@ -381,10 +381,6 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||cd4o.com^
 @@||driverboosterscan.com^
 @@||*.driverboosterscan.com^
-@@||pastul.co.uk^
-@@||*.pastul.co.uk^
-@@||pastul.co^
-@@||*.pastul.co^
 @@||minecraftservices.com^
 @@||*.minecraftservices.com^
 @@||letsencrypt.org^
@@ -392,3 +388,4 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||api.enthusiastgaming.net^
 @@||adtidy.org^
 @@||*.adtidy.org^
+@@||*.ddns.net^
