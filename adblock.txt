@@ -388,3 +388,4 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||*.ddns.net^
 @@||pc.realms.minecraft.net^
 @@||play.google.com^
+@@||api.unity.com^
