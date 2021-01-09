@@ -389,3 +389,9 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||pc.realms.minecraft.net^
 @@||play.google.com^
 @@||api.unity.com^
+@@||shields.io^
+@@||*.sophosxl.net^$important
+@@||*.digicert.com^
+@@||*.sophos.com^$important
+@@||*.sophosupd.com^$important
+@@||*.sophosupd.net^$important
