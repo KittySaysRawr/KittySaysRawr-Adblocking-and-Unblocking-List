@@ -410,3 +410,7 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||vod-thumb-uk-live.akamaized.net^
 @@||*.bbci.co.uk^
 @@||vod-thumb-uk-live.bbcfmt.s.llnwi.net^
+@@||steamcloud-eu-fra.storage.googleapis.com^
+@@||update.googleapis.com^
+@@||*.windscribe.com^
+@@||api.bethesda.net^
