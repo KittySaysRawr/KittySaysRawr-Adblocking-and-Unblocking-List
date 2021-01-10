@@ -85,7 +85,7 @@
 ||test-iq.org^
 ||*.test-iq.org^
 ||app-analytics-v2.snapchat.com^
-||logs.dashlane.com^
+||logs.dashlane.com^$important
 ||fe-shop.ru^
 ||feacc-18.ru^
 ||feacc-18.su^
@@ -98,6 +98,15 @@
 ||app-measurement.com^
 ||*.amazon-adsystem.com^
 ||*.googletagmanager.com^
+||*.xjingzhe.com^
+||*.cdnhack.cn^
+||*.ajay.app^
+||*.ebay-kleinanzeigen.de^
+||*.volksverpetzer.de^
+||*.kardiachain.io^
+||*.marketo.net^
+
+
 
 ! Element-Block-list:
 
