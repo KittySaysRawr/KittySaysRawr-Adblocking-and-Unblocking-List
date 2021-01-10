@@ -105,7 +105,10 @@
 ||*.volksverpetzer.de^
 ||*.kardiachain.io^
 ||*.marketo.net^
-
+||*.yananda.com^
+||*.ragezone.com^
+||*.purplesmoke.info^
+||*.griefergames.de^
 
 
 ! Element-Block-list:
