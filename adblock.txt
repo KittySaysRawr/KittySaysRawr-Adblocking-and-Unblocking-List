@@ -85,6 +85,7 @@
 ||test-iq.org^
 ||*.test-iq.org^
 ||app-analytics-v2.snapchat.com^
+||logs.dashlane.com^
 
 
 ! Element-Block-list:
@@ -151,10 +152,10 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||*.cloudflare-dns.com^$important
 @@||dashlane.com^
 @@||*.dashlane.com^
-@@||dashlane.com^$important
-@@||*.dashlane.com^$important
+@@||dashlane.com^
+@@||*.dashlane.com^
 @@||www.dashlane.com^
-@@||www.dashlane.com^$important
+@@||www.dashlane.com^
 @@||honeygain.com^
 @@||*.honeygain.com^
 @@||honeygain.com^$important
@@ -399,3 +400,8 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||api.onedrive.com^
 @@||logincdn.msauth.net^
 @@||play.googleapis.com^
+@@||gateway.discord.gg^
+@@||latency.discord.media^
+@@||dl.discordapp.net^
+@@||ocsp.globalsign.com
+@@||ocsp.sca1b.amazontrust.com^
