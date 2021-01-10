@@ -93,6 +93,7 @@
 ||www.googletagservices.com^
 ||*.googletagservices.com
 ||*.amazon-adsystem.com^
+||logx.optimizely.com^
 
 
 
@@ -426,3 +427,4 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||ocsp.pki.goog^
 @@||notifications.files.bbci.co.uk^
 @@||ssl-bbcdotcom.2cnt.net^
+@@||mcs-spinnaker-283711814.us-east-1.elb.amazonaws.com^
