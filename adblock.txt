@@ -86,6 +86,14 @@
 ||*.test-iq.org^
 ||app-analytics-v2.snapchat.com^
 ||logs.dashlane.com^
+||fe-shop.ru^
+||feacc-18.ru^
+||feacc-18.su^
+||*.aaxads.com^
+||www.googletagservices.com^
+||*.googletagservices.com
+||*.amazon-adsystem.com^
+
 
 
 ! Element-Block-list:
@@ -405,3 +413,16 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||dl.discordapp.net^
 @@||ocsp.globalsign.com
 @@||ocsp.sca1b.amazontrust.com^
+@@||ocsp.sectigo.com^
+@@||r.bbci.co.uk^
+@@||notifications.files.bbci.co.uk^
+@@||secure.gravatar.com^
+@@||imgs.hcaptcha.com^
+@@||*.hcaptcha.com^
+@@||apis.google.com^
+@@||fonts.googleapis.com^
+@@||ssl.gstatic.com^
+@@||ogs.google.co.uk^
+@@||ocsp.pki.goog^
+@@||notifications.files.bbci.co.uk^
+@@||ssl-bbcdotcom.2cnt.net^
