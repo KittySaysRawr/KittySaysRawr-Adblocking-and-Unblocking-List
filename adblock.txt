@@ -426,3 +426,4 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||googlehosted.l.googleusercontent.com^
 @@||apidata.googleusercontent.com^
 @@||wd-prod-ss-eu-west-2-fe.westeurope.cloudapp.azure.com^
+@@||eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com^
