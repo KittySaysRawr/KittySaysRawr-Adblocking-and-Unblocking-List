@@ -112,8 +112,6 @@
 ||*.presage.io^
 ||*.cyber-hub.pw^
 ||*.cracked.to^
-||*.ru
-||*.de
 
 
 ! Element-Block-list:
