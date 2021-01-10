@@ -311,13 +311,7 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
 @@||h-lloydsbank.online-metrix.net^$important
-@@||nav.files.bbci.co.uk^
-@@||iplayer-web.files.bbci.co.uk^
-@@||ichef.bbci.co.uk^
-@@||mybbc.files.bbci.co.uk^
-@@||emp.bbci.co.uk^
 @@||idcta.api.bbc.co.uk^
-@@||static.files.bbci.co.uk^
 @@||api.ecosia.org^
 @@||sp.ecosia.org^
 @@||cdn.ecosia.org^
@@ -415,8 +409,6 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||ocsp.globalsign.com
 @@||ocsp.sca1b.amazontrust.com^
 @@||ocsp.sectigo.com^
-@@||r.bbci.co.uk^
-@@||notifications.files.bbci.co.uk^
 @@||secure.gravatar.com^
 @@||imgs.hcaptcha.com^
 @@||*.hcaptcha.com^
