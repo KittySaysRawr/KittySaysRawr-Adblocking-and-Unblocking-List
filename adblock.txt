@@ -281,7 +281,7 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||discord.com^$important,document
 @@||*.discord.com^$important,document
 @@||*.cloudflaressl.com^$important
-@@||www.nexusmods.com^
+@@||*.nexusmods.com^
 @@||ws1.dashlane.com^
 @@||api.honeygain.com^
 @@||safebrowsing.googleapis.com^
