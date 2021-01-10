@@ -414,3 +414,6 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||update.googleapis.com^
 @@||*.windscribe.com^
 @@||api.bethesda.net^
+@@||api1.origin.com^
+@@||yt3.ggpht.com^
+@@||i.ytimg.com^
