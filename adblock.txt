@@ -98,20 +98,8 @@
 ||app-measurement.com^
 ||*.amazon-adsystem.com^
 ||*.googletagmanager.com^
-||*.xjingzhe.com^
-||*.cdnhack.cn^
-||*.ajay.app^
-||*.ebay-kleinanzeigen.de^
-||*.volksverpetzer.de^
-||*.kardiachain.io^
-||*.marketo.net^
-||*.yananda.com^
-||*.ragezone.com^
-||*.purplesmoke.info^
-||*.griefergames.de^
-||*.presage.io^
-||*.cyber-hub.pw^
-||*.cracked.to^
+||prd-collector-anon.ex.co^
+
 
 
 ! Element-Block-list:
