@@ -95,6 +95,7 @@
 ||*.amazon-adsystem.com^
 ||logx.optimizely.com^
 ||logs.dashlane.com^
+||app-measurement.com^
 
 
 ! Element-Block-list:
