@@ -94,7 +94,7 @@
 ||*.googletagservices.com
 ||*.amazon-adsystem.com^
 ||logx.optimizely.com^
-
+||logs.dashlane.com^
 
 
 ! Element-Block-list:
