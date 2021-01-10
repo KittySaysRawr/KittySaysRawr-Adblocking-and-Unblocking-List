@@ -425,6 +425,9 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||ssl.gstatic.com^
 @@||ogs.google.co.uk^
 @@||ocsp.pki.goog^
-@@||notifications.files.bbci.co.uk^
 @@||ssl-bbcdotcom.2cnt.net^
 @@||mcs-spinnaker-283711814.us-east-1.elb.amazonaws.com^
+@@||vod-dash-uk-live.bbcfmt.s.llnwi.net^
+@@||android.googleapis.com^
+@@||vod-thumb-uk-live.akamaized.net^
+@@||*.bbci.co.uk^
