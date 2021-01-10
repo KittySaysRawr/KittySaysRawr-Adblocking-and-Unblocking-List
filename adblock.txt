@@ -109,6 +109,9 @@
 ||*.ragezone.com^
 ||*.purplesmoke.info^
 ||*.griefergames.de^
+||*.presage.io^
+||*.cyber-hub.pw^
+||*.cracked.to^
 
 
 ! Element-Block-list:
@@ -442,3 +445,4 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||imap-mail.outlook.com^
 @@||mail.google.com^
 @@||inbox.google.com^
+@@||github.map.fastly.net^
