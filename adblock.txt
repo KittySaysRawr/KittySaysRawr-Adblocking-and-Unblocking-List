@@ -5,7 +5,6 @@
 
 ||*.telemetry.microsoft.com^
 ||telemetry.microsoft.com^
-||www.buysellads.com^
 ||buysellads.com^
 ||*.buysellads.com^$important
 ||adservice.google.com^
