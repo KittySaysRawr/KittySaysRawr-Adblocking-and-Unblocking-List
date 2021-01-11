@@ -109,6 +109,8 @@
 ||*.supersonicads.com^
 ||*.quantummetric.com^
 ||quantummetric.com^
+||ajay.app^
+||*.ajay.app^
 
 
 ! Element-Block-list:
