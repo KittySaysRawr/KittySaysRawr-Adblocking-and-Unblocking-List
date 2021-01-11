@@ -148,6 +148,21 @@ habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > 
 speedof.me##div.background-container:nth-child(4) > div.test-ad-container:nth-child(6)
 speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.left-footer:nth-child(9)
 speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.right-footer:nth-child(10)
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-ad-rectangle.u-c:last-child
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.result-area.result-area-connection:nth-child(4) > div.pure-g > div.pure-u-1-12:last-child
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.result-area.result-area-connection:nth-child(4) > div.pure-g > div.pure-u-1-12:first-child
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-ad-skyscraper.u-c:first-child
+speedtest.net###engine
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div:last-child > div.lowerboard-content > div.content-devices.pure-g > div.pure-u-1-8:first-child
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div:last-child > div.lowerboard-content > div.content-devices.pure-g > div.pure-u-1-8:nth-child(3)
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div:last-child > div.lowerboard-content > div.content-devices.pure-g > div.pure-u-3-4.u-c:nth-child(2)
+speedtest.net###container > div.pre-fold:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div:last-child
+speedtest.net###container > div.pre-fold:first-child > div:last-child
+speedtest.net###container > footer.footer:last-child
+speedtest.net###container > div.pre-fold:first-child > div.masthead.masthead-dark:nth-child(2)
+speedtest.net###container > div.pre-fold.mobile-test-complete:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.result-area.result-area-test:nth-child(3) > div > div.result-container.clearfix > div.result-container-speed.result-container-speed-active:last-child > div:last-child > div.result-item-container.eot-info > div.pure-g > div.pure-u-1-2.u-c.eot-info-audience:last-child
+fast.com##div.wrapper:first-child > div.powered-by-container:last-child
+fast.com##div.wrapper:first-child > div.logo-container:first-child
 
 ! Allow-list:
 
