@@ -143,7 +143,9 @@ nexusmods.com###primis_playerSekindoSPlayer5fdef42229157
 nexusmods.com###qc-cmp2-persistent-link
 nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5) > div.ads:first-child > div.ad.demo-billboard.ad-unit:last-child
 nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
-
+habbo.com##div.content:first-child > habbo-header-small:first-child > habbo-header-ad:first-child
+habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > section:last-child > habbo-ad-unit.aside.aside--fixed:nth-child(3)
+speedof.me##div.background-container:nth-child(4) > div.test-ad-container:nth-child(6)
 
 ! Allow-list:
 
