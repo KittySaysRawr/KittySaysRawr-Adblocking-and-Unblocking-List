@@ -99,7 +99,17 @@
 ||*.amazon-adsystem.com^
 ||*.googletagmanager.com^
 ||prd-collector-anon.ex.co^
-
+||crashlytics.com^
+||*.crashlytics.com^
+||bugfender.com^
+||*.bugfender.com^
+||presage.io^
+||*.presage.io^
+||firebaselogging-pa.googleapis.com^
+||supersonicads.com^
+||*.supersonicads.com^
+||*.quantummetric.com^
+||quantummetric.com^
 
 
 ! Element-Block-list:
@@ -168,6 +178,9 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 
 @@||ecosia.org^$important
 @@||*.ecosia.org^$important
+@@||*.adguard.com^
+@@||api.adguard.com^
+@@||adguard.com^
 @@||*.dns.adguard.org^
 @@||adguard.org^$important
 @@||*.adguard.org^$important
@@ -181,7 +194,7 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||dashlane.com^
 @@||*.honeygain.com^$important
 @@||honeygain.com^
-@@||www.youtube.com^$important,document
+@@||*.youtube.com^$important,document
 @@||youtube.com^$important
 @@||www.netflix.com^$important,document
 @@||netflix.com$important
@@ -191,10 +204,8 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||192.168.0.1^$important,document
 @@||captcha.website^$important,document
 @@||secure.lloydsbank.co.uk^$important,document
-@@||github.com^$important,document
-@@||github.com^$important,document
-@@||www.magicmushroommap.org^$important,document
 @@||github.com^
+@@||www.magicmushroommap.org^$important,document
 @@||*.github.com^
 @@||virustotal.com^$important
 @@||user-images.githubusercontent.com^$important
@@ -231,19 +242,16 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||bbc.co.uk^
 @@||*.bbc.co.uk^
 @@||*.bbc.com^
-@@||amp.dashlane.com^
 @@||*.wigan.gov.uk^
 @@||wigan.gov.uk^
 @@||cusecureserver.co.uk^
 @@||*.cusecureserver.co.uk^$important
 @@||*.unifycu.org^
 @@||unifycu.org^
-@@||*.unifycu.org^$imporant
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
 @@||housingonline.wigan.gov.uk^$important,document
-@@||www.cusecureserver.co.uk^$important,document
 @@||protonmail.com^
 @@||*.protonmail.com^
 @@||*.protonmail.ch^
@@ -257,7 +265,6 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||discord.com^
 @@||*.cloudflaressl.com^$important
 @@||*.nexusmods.com^
-@@||api.honeygain.com^
 @@||safebrowsing.googleapis.com^
 @@||www.clicksafe.lloydstsb.com^
 @@||*.lloydstsb.com^
@@ -353,8 +360,8 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||ocsp.sca1b.amazontrust.com^
 @@||ocsp.sectigo.com^
 @@||secure.gravatar.com^
-@@||imgs.hcaptcha.com^
 @@||*.hcaptcha.com^
+@@||hcaptcha.com^^
 @@||apis.google.com^
 @@||fonts.googleapis.com^
 @@||ssl.gstatic.com^
@@ -386,6 +393,7 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||mail.google.com^
 @@||inbox.google.com^
 @@||github.map.fastly.net^
+@@||pastul.tplinkdns.com^
 @@||e.root-servers.net^
 @@||f.root-servers.net^
 @@||k.root-servers.net^
