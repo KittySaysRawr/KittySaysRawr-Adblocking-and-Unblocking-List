@@ -146,6 +146,8 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 habbo.com##div.content:first-child > habbo-header-small:first-child > habbo-header-ad:first-child
 habbo.com##div.content:first-child > main.wrapper.wrapper--content:last-child > section:last-child > habbo-ad-unit.aside.aside--fixed:nth-child(3)
 speedof.me##div.background-container:nth-child(4) > div.test-ad-container:nth-child(6)
+speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.left-footer:nth-child(9)
+speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.right-footer:nth-child(10)
 
 ! Allow-list:
 
