@@ -434,3 +434,16 @@ nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 @@||mail.google.com^
 @@||inbox.google.com^
 @@||github.map.fastly.net^
+@@||e.root-servers.net^
+@@||f.root-servers.net^
+@@||k.root-servers.net^
+@@||a.root-servers.net^
+@@||d.root-servers.net^
+@@||g.root-servers.net^
+@@||i.root-servers.net^
+@@||j.root-servers.net^
+@@||b.root-servers.net^
+@@||l.root-servers.net^
+@@||h.root-servers.net^
+@@||c.root-servers.net^
+@@||m.root-servers.net^
