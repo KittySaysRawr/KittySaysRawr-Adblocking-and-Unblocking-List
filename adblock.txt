@@ -269,10 +269,6 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
 @@||h-lloydsbank.online-metrix.net^$important
-@@||api.ecosia.org^
-@@||sp.ecosia.org^
-@@||cdn.ecosia.org^
-@@||info.ecosia.org^
 @@||192.168.1.1^$important,document
 @@||192.168.1.104^$important,document
 @@||time-macos.apple.com^
