@@ -111,6 +111,22 @@
 ||quantummetric.com^
 ||ajay.app^
 ||*.ajay.app^
+||flurry.com^
+||*.flurry.com^
+||*.unityads.unity3d.com^
+||cdp.cloud.unity3d.com^
+||config.uca.cloud.unity3d.com^
+||appbaqend.com^
+||*.appbaqend.com^
+||*.applovin.com^
+||applovin.com^
+||adcolony.com^
+||*.adcolony.com^
+||applvn.com^
+||*.applvn.com^
+||bidmachine.io^
+||*.bidmachine.io^
+||vortex.data.microsoft.com^
 
 
 ! Element-Block-list:
