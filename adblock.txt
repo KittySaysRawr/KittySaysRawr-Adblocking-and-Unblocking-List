@@ -424,3 +424,5 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||h.root-servers.net^
 @@||c.root-servers.net^
 @@||m.root-servers.net^
+@@||recaptcha.net^
+@@||*.recaptcha.net^
