@@ -109,8 +109,6 @@
 ||*.supersonicads.com^
 ||*.quantummetric.com^
 ||quantummetric.com^
-||ajay.app^
-||*.ajay.app^
 ||flurry.com^
 ||*.flurry.com^
 ||*.unityads.unity3d.com^
