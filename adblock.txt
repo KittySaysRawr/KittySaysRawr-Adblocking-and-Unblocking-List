@@ -428,3 +428,4 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||m.root-servers.net^
 @@||recaptcha.net^
 @@||*.recaptcha.net^
+@@||sponsor.ajay.app^
