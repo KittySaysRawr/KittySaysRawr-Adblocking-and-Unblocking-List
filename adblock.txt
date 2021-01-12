@@ -127,6 +127,9 @@
 ||bidmachine.io^
 ||*.bidmachine.io^
 ||vortex.data.microsoft.com^
+||urbanairship.com^
+||*.urbanairship.com^
+
 
 
 ! Element-Block-list:
@@ -367,6 +370,7 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.sophosupd.com^$important
 @@||*.sophosupd.net^$important
 @@||youtubei.googleapis.com^
+@@||www.youtube.com^$important,document
 @@||api.onedrive.com^
 @@||logincdn.msauth.net^
 @@||play.googleapis.com^
