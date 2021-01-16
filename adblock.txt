@@ -429,3 +429,9 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||recaptcha.net^
 @@||*.recaptcha.net^
 @@||sponsor.ajay.app^
+@@||*.netflix.com^
+@@||netflix.com^
+@@||*.nflxvideo.net^
+@@||nflxvideo.net^
+@@||nflxso.net^
+@@||*.nflxso.net^
