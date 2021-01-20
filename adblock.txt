@@ -127,8 +127,8 @@
 ||vortex.data.microsoft.com^
 ||urbanairship.com^
 ||*.urbanairship.com^
-
-
+||googleadservices.com^
+||*.googleadservices.com^
 
 ! Element-Block-list:
 
