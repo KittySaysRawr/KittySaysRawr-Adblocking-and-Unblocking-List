@@ -435,5 +435,5 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||nflxvideo.net^
 @@||nflxso.net^
 @@||*.nflxso.net^
-@@||pastul.xyz^
-@@||*.pastul.xyz^
+@@||pastul.xyz^$important
+@@||*.pastul.xyz^$important
