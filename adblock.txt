@@ -362,11 +362,7 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||play.google.com^
 @@||api.unity.com^
 @@||shields.io^
-@@||*.sophosxl.net^$important
 @@||*.digicert.com^
-@@||*.sophos.com^$important
-@@||*.sophosupd.com^$important
-@@||*.sophosupd.net^$important
 @@||youtubei.googleapis.com^
 @@||www.youtube.com^$important,document
 @@||api.onedrive.com^
