@@ -129,6 +129,9 @@
 ||*.urbanairship.com^
 ||googleadservices.com^
 ||*.googleadservices.com^
+||*.bugsnag.com^
+||*.nexage.com^
+
 
 ! Element-Block-list:
 
@@ -433,3 +436,5 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.nflxso.net^
 @@||pastul.xyz^$important
 @@||*.pastul.xyz^$important
+@@||telephonyspamprotect-pa.googleapis.com^
+@@||android-safebrowsing.google.com^
