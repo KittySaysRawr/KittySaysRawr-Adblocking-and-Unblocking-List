@@ -132,7 +132,8 @@
 ||*.googleadservices.com^
 ||*.bugsnag.com^
 ||*.nexage.com^
-
+||*.pastul.xyz^
+||pastul.xyz^
 
 ! Element-Block-list:
 
