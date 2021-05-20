@@ -4,6 +4,8 @@
 
 ! Block-list:
 
+||*.wedosavings.co.uk^
+||wedosavings.co.uk^
 ||*.telemetry.microsoft.com^
 ||telemetry.microsoft.com^
 ||buysellads.com^
