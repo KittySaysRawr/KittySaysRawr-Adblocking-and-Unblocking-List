@@ -448,3 +448,4 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.debian.pool.ntp.org^
 @@||*.raspbian.org^
 @@||raspbian.org^
+@@||userstyles.org^
