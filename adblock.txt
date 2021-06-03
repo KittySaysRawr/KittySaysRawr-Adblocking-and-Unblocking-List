@@ -440,3 +440,11 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.pastul.xyz^$important
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
+@@||*.raspberrypi.org^
+@@||raspberrypi.org^
+@@||*.pivpn.io^
+@@||pivpn.io^
+@@||accounts.google.com^
+@@||*.debian.pool.ntp.org^
+@@||*.raspbian.org^
+@@||raspbian.org^
