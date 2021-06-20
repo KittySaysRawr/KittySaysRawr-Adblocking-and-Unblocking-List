@@ -4,8 +4,9 @@
 
 ! Block-list:
 
-||*.wedosavings.co.uk^
-||wedosavings.co.uk^
+||fundingchoicesmessages.google.com^$important
+||*.wedosavings.co.uk^$important
+||wedosavings.co.uk^$important
 ||*.telemetry.microsoft.com^
 ||telemetry.microsoft.com^
 ||buysellads.com^
