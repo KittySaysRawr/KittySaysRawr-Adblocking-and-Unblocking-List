@@ -4,6 +4,7 @@
 
 ! Block-list:
 
+||contributor.google.com^$important
 ||fundingchoicesmessages.google.com^$important
 ||*.wedosavings.co.uk^$important
 ||wedosavings.co.uk^$important
