@@ -198,6 +198,7 @@ speedtest.net###container > div.pre-fold:first-child > div.masthead.masthead-dar
 speedtest.net###container > div.pre-fold.mobile-test-complete:first-child > div.main-content:nth-child(3) > div.main > div.container > div.pure-g > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.result-area.result-area-test:nth-child(3) > div > div.result-container.clearfix > div.result-container-speed.result-container-speed-active:last-child > div:last-child > div.result-item-container.eot-info > div.pure-g > div.pure-u-1-2.u-c.eot-info-audience:last-child
 fast.com##div.wrapper:first-child > div.powered-by-container:last-child
 fast.com##div.wrapper:first-child > div.logo-container:first-child
+hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 
 ! Allow-list:
 
@@ -440,6 +441,7 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.nflxso.net^
 @@||pastul.xyz^$important
 @@||*.pastul.xyz^$important
+@@||main--pastul.netlify.app^$important,document
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
 @@||*.raspberrypi.org^
@@ -451,3 +453,34 @@ fast.com##div.wrapper:first-child > div.logo-container:first-child
 @@||*.raspbian.org^
 @@||raspbian.org^
 @@||userstyles.org^
+
+# Misc Unblocking/Blocking
+# Items here could be duplicates
+# Items here will be sorted into their correct place
+
+@@||dashboard.honeygain.com^$important,document
+@@||account.microsoft.com^$important,document
+@@||join.greenparty.org.uk^$important,document
+@@||192.168.3.101^$important,document
+@@||www.ecosia.org^$important,document
+@@||seonify.com^$important,document
+@@||motoring.dvla.gov.uk^$important,document
+@@||www.younow.com^$important,document
+@@||signups.treecard.org^$important,document
+@@||www.treecard.org^$important,document
+@@||www.papajohns.co.uk^$important,document
+@@||luno.sng.link^$important,document
+@@||www.luno.com^$important,document
+@@||partner.microsoft.com^$important,document
+@@||userstyles.org^$important,document
+@@||192.168.3.101^$important,document
+@@||outlook.live.com^$important,document
+@@||www.mobiles.co.uk^$important,document
+@@||freeloadbalancer.com^$important,document
+@@||my.freenom.com^$important,document
+@@||dash.cloudflare.com^$important,document
+@@||logon.slc.co.uk^$important,document
+@@||www.student-finance.service.gov.uk^$important,document
+@@||www.tax.service.gov.uk^$important,document
+@@||*.housingonline.wigan.gov.uk^
+@@||housingonline.wigan.gov.uk^
