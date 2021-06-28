@@ -454,9 +454,9 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||raspbian.org^
 @@||userstyles.org^
 
-# Misc Unblocking/Blocking
-# Items here could be duplicates
-# Items here will be sorted into their correct place
+! Misc Unblocking/Blocking
+! Items here could be duplicates
+! Items here will be sorted into their correct place
 
 @@||dashboard.honeygain.com^$important,document
 @@||account.microsoft.com^$important,document
