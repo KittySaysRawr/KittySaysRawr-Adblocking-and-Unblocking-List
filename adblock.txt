@@ -136,6 +136,8 @@
 ||*.googleadservices.com^
 ||*.bugsnag.com^
 ||*.nexage.com^
+||www.google-analytics.com.com^
+||*.google-analytics.com.com^
 
 ! Element-Block-list:
 
@@ -458,27 +460,21 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 ! Items here could be duplicates
 ! Items here will be sorted into their correct place
 
-@@||dashboard.honeygain.com^$important,document
 @@||account.microsoft.com^$important,document
 @@||join.greenparty.org.uk^$important,document
 @@||192.168.3.101^$important,document
-@@||www.ecosia.org^$important,document
 @@||seonify.com^$important,document
 @@||motoring.dvla.gov.uk^$important,document
-@@||www.younow.com^$important,document
-@@||signups.treecard.org^$important,document
-@@||www.treecard.org^$important,document
-@@||www.papajohns.co.uk^$important,document
+@@||*.treecard.org^$important,document
+@@||treecard.org^$important,document
 @@||luno.sng.link^$important,document
 @@||www.luno.com^$important,document
 @@||partner.microsoft.com^$important,document
 @@||userstyles.org^$important,document
 @@||192.168.3.101^$important,document
-@@||outlook.live.com^$important,document
 @@||www.mobiles.co.uk^$important,document
 @@||freeloadbalancer.com^$important,document
 @@||my.freenom.com^$important,document
-@@||dash.cloudflare.com^$important,document
 @@||logon.slc.co.uk^$important,document
 @@||www.student-finance.service.gov.uk^$important,document
 @@||www.tax.service.gov.uk^$important,document
