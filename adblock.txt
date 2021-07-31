@@ -222,8 +222,8 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||dashlane.com^
 @@||*.honeygain.com^$important
 @@||honeygain.com^
-@@||*.youtube.com^$important,document
-@@||youtube.com^$important
+! @@||*.youtube.com^$important,document
+! @@||youtube.com^$important
 @@||www.netflix.com^$important,document
 @@||netflix.com$important
 @@||192.168.3.1^$important,document
@@ -256,7 +256,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||m.media-amazon.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
-@@||img.youtube.com^$important
+! @@||img.youtube.com^$important
 @@||images-na.ssl-images-amazon.com^$important
 @@||fonts.gstatic.com^$important
 @@||edge.microsoft.com^$important
@@ -373,8 +373,8 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||api.unity.com^
 @@||shields.io^
 @@||*.digicert.com^
-@@||youtubei.googleapis.com^
-@@||www.youtube.com^$important,document
+! @@||youtubei.googleapis.com^
+! @@||www.youtube.com^$important,document
 @@||api.onedrive.com^
 @@||logincdn.msauth.net^
 @@||play.googleapis.com^
