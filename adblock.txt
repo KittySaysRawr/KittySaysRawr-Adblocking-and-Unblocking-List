@@ -138,6 +138,17 @@
 ||*.nexage.com^
 ||www.google-analytics.com.com^
 ||*.google-analytics.com.com^
+||tracker.opentrackr.org^$important
+||tracker.0x.tf^$important
+||iframe-thesun-co-uk.cdn.ampproject.org^$important
+||www-thesun-co-uk.cdn.ampproject.org^$important
+||tracker.dler.org^$important
+||tracker.openbittorrent.com^$important
+||open.stealth.si^$important
+||tracker.coppersurfer.tk^$important
+||opentracker.i2p.rocks^$important
+||puzzles.msn.com^$important
+||corona.channel5.com^$important
 
 ! Element-Block-list:
 
