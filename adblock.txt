@@ -466,6 +466,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||*.raspbian.org^
 @@||raspbian.org^
 @@||userstyles.org^
+@@||wigan.ovh^$important,document
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
@@ -491,3 +492,4 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||www.tax.service.gov.uk^$important,document
 @@||*.housingonline.wigan.gov.uk^
 @@||housingonline.wigan.gov.uk^
+@@||jdwetherspoon.csod.com^$important,document
