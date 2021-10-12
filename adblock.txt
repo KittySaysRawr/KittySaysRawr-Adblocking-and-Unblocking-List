@@ -467,6 +467,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||raspbian.org^
 @@||userstyles.org^
 @@||wigan.ovh^$important,document
+@@||pastul.speedtestcustom.com^
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
