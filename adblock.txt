@@ -452,8 +452,6 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||nflxvideo.net^
 @@||nflxso.net^
 @@||*.nflxso.net^
-@@||pastul.xyz^$important
-@@||*.pastul.xyz^$important
 @@||main--pastul.netlify.app^$important,document
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
