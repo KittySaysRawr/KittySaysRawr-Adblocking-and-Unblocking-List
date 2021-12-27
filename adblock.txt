@@ -493,4 +493,4 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||www.tax.service.gov.uk^$important,document
 @@||*.housingonline.wigan.gov.uk^
 @@||housingonline.wigan.gov.uk^
-@@||jdwetherspoon.csod.com^$important,document
+@@||edge.activity.windows.com^$important
