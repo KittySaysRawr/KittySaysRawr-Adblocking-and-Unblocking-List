@@ -387,6 +387,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||*.discord.gg^
 @@||*.discord.media^
 @@||*.discordapp.net^
+@@||*.discordapp.com^
 @@||ocsp.globalsign.com
 @@||ocsp.sca1b.amazontrust.com^
 @@||ocsp.sectigo.com^
