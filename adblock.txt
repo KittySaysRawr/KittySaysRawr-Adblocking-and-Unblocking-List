@@ -466,6 +466,8 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||userstyles.org^
 @@||wigan.ovh^$important,document
 @@||pastul.speedtestcustom.com^
+@@||*.secureage.com^$important
+@@||*.adtidy.org^$important
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
