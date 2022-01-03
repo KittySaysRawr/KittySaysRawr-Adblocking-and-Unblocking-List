@@ -384,9 +384,9 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||api.onedrive.com^
 @@||logincdn.msauth.net^
 @@||play.googleapis.com^
-@@||gateway.discord.gg^
-@@||latency.discord.media^
-@@||dl.discordapp.net^
+@@||*.discord.gg^
+@@||*.discord.media^
+@@||*.discordapp.net^
 @@||ocsp.globalsign.com
 @@||ocsp.sca1b.amazontrust.com^
 @@||ocsp.sectigo.com^
