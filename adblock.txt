@@ -153,6 +153,7 @@
 ||*.mixpanel.com^
 ||edigitalsurvey.com^
 ||*.edigitalsurvey.com^
+||app-analytics-v2.snapchat.com^
 
 ! Element-Block-list:
 
