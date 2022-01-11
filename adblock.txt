@@ -151,6 +151,8 @@
 ||corona.channel5.com^$important
 ||mixpanel.com^
 ||*.mixpanel.com^
+||edigitalsurvey.com^
+||*.edigitalsurvey.com^
 
 ! Element-Block-list:
 
