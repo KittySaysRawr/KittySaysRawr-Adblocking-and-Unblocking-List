@@ -461,6 +461,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||raspbian.org^
 @@||userstyles.org^
 @@||wigan.ovh^$important,document
+@@||*.wigan.ovh^$important,document
 @@||pastul.speedtestcustom.com^
 @@||*.secureage.com^$important
 @@||*.adtidy.org^$important
