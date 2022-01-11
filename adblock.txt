@@ -149,6 +149,8 @@
 ||opentracker.i2p.rocks^$important
 ||puzzles.msn.com^$important
 ||corona.channel5.com^$important
+||mixpanel.com^
+||*.mixpanel.com^
 
 ! Element-Block-list:
 
