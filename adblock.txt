@@ -470,6 +470,11 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||pastul.speedtestcustom.com^
 @@||*.secureage.com^$important
 @@||*.adtidy.org^$important
+@@||sentry.jumptask.io^
+@@||*.jumptask.io^
+@@||metamask.github.io^
+@@||api.coingecko.com^
+@@||min-api.cryptocompare.com^
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
@@ -489,10 +494,7 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||192.168.3.101^$important,document
 @@||www.mobiles.co.uk^$important,document
 @@||freeloadbalancer.com^$important,document
-@@||my.freenom.com^$important,document
 @@||logon.slc.co.uk^$important,document
 @@||www.student-finance.service.gov.uk^$important,document
 @@||www.tax.service.gov.uk^$important,document
-@@||*.housingonline.wigan.gov.uk^
-@@||housingonline.wigan.gov.uk^
 @@||edge.activity.windows.com^$important
