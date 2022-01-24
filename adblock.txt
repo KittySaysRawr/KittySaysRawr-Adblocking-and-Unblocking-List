@@ -154,6 +154,8 @@
 ||edigitalsurvey.com^
 ||*.edigitalsurvey.com^
 ||app-analytics-v2.snapchat.com^
+||*.test.com^
+||test.com^
 
 ! Element-Block-list:
 
