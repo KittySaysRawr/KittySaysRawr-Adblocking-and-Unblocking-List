@@ -157,7 +157,11 @@
 ||*.test.com^
 ||test.com^
 ||astrill4u.com^$important
+||*.astrill4u.com^$important
 ||*.astrill.org^$important
+||astrill.org^$important
+||*.dynatrace.com^$important
+||dynatrace.com^$important
 
 ! Element-Block-list:
 
