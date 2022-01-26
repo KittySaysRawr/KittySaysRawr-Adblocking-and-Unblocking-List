@@ -162,6 +162,8 @@
 ||astrill.org^$important
 ||*.dynatrace.com^$important
 ||dynatrace.com^$important
+||soldbyphonder.com^
+||*.soldbyphonder.com^
 
 ! Element-Block-list:
 
