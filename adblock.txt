@@ -156,6 +156,8 @@
 ||app-analytics-v2.snapchat.com^
 ||*.test.com^
 ||test.com^
+||astrill4u.com^$important
+||*.astrill.org^$important
 
 ! Element-Block-list:
 
