@@ -172,6 +172,8 @@
 ||*.telegraph.co.uk^
 ||thetimes.co.uk^
 ||*.thetimes.co.uk^
+||thesundaytimes.co.uk^
+||*.thesundaytimes.co.uk^
 ||express.co.uk^
 ||*.express.co.uk^
 ||thesun.co.uk^
