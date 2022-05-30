@@ -164,6 +164,7 @@
 ||dynatrace.com^$important
 ||soldbyphonder.com^
 ||*.soldbyphonder.com^
+||device-metrics-us.amazon.com^
 
 ! Right-wing Press: (Often misleading the public)
 
