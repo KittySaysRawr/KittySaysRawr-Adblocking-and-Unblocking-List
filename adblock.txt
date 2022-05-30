@@ -165,6 +165,19 @@
 ||soldbyphonder.com^
 ||*.soldbyphonder.com^
 
+! Right-wing Press: (Often misleading the public)
+
+||telegraph.co.uk^
+||*.telegraph.co.uk^
+||thetimes.co.uk^
+||*.thetimes.co.uk^
+||express.co.uk^
+||*.express.co.uk^
+||thesun.co.uk^
+||*.thesun.co.uk^
+||dailymail.co.uk^
+||*.dailymail.co.uk^
+
 ! Element-Block-list:
 
 nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_1_N\/NEX0728x0090_1_N_WindowLoadedTest-A_0
@@ -485,6 +498,8 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||metamask.github.io^
 @@||api.coingecko.com^
 @@||min-api.cryptocompare.com^
+@@||pastul.co.uk^
+@@||*.pastul.co.uk^
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
