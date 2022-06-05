@@ -205,7 +205,6 @@ clipwatching.com###_header
 clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child > div.container-fluid
 clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child
 clipwatching.com##footer:nth-child(4) > div.container-fluid
-123movieshub.pe###main > div.container > div.container:last-child > div.ann-home.alert.text-center:nth-child(5)
 nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:first-child
 nexusmods.com###transparentInner
 nexusmods.com###transparentCover
