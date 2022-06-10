@@ -240,6 +240,12 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 
 ! Allow-list:
 
+@@||*.youtube.com^$important,document
+@@||youtube.com^$important
+@@||img.youtube.com^$important
+@@||*.googlevideo.com^
+@@||youtubei.googleapis.com^
+@@||www.youtube.com^$important,document
 @@||ecosia.org^$important
 @@||*.ecosia.org^$important
 @@||*.adguard.com^
@@ -258,12 +264,6 @@ hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
 @@||dashlane.com^
 @@||*.honeygain.com^$important
 @@||honeygain.com^
-!! @@||*.youtube.com^$important,document
-!! @@||youtube.com^$important
-!! @@||img.youtube.com^$important
-!! @@||*.googlevideo.com^
-!! @@||youtubei.googleapis.com^
-!! @@||www.youtube.com^$important,document
 @@||www.netflix.com^$important,document
 @@||netflix.com$important
 @@||192.168.3.1^$important,document
