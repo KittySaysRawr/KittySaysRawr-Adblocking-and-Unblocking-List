@@ -180,6 +180,8 @@
 ||*.thesun.co.uk^
 ||dailymail.co.uk^
 ||*.dailymail.co.uk^
+||thescottishsun.co.uk^
+||*.thescottishsun.co.uk^
 
 ! Element-Block-list:
 
