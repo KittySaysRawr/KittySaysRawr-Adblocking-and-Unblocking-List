@@ -165,6 +165,7 @@
 ||soldbyphonder.com^
 ||*.soldbyphonder.com^
 ||device-metrics-us.amazon.com^
+||track.taimi.com^
 
 ! Right-wing Press: (Often misleading the public)
 
