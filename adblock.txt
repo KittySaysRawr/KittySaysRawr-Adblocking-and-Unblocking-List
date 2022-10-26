@@ -239,6 +239,13 @@ speedtest.net###container > div.pre-fold.mobile-test-complete:first-child > div.
 fast.com##div.wrapper:first-child > div.powered-by-container:last-child
 fast.com##div.wrapper:first-child > div.logo-container:first-child
 hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
+gomovies.sx###modalshare > div.modal-dialog.modal-dialog-centered > div.modal-content
+gomovies.sx###modalshare > div.modal-dialog.modal-dialog-centered
+gomovies.sx###modalshare
+gomovies.sx##div.modal-backdrop.show:nth-child(19)
+gomovies.sx###main-wrapper > div.watching:first-child > div.container > div.alert.mb-3:nth-child(3)
+gomovies.sx##div.modal-backdrop.show:last-child
+gomovies.sx##div.modal-backdrop.show:nth-child(15)
 
 ! Allow-list:
 
