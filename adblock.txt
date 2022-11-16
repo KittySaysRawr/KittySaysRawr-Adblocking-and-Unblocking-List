@@ -250,12 +250,12 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 
 ! Allow-list:
 
-# @@||*.youtube.com^$important,document
-# @@||youtube.com^$important
-# @@||img.youtube.com^$important
-# @@||*.googlevideo.com^
-# @@||youtubei.googleapis.com^
-# @@||www.youtube.com^$important,document
+@@||*.youtube.com^$important,document
+@@||youtube.com^$important
+@@||img.youtube.com^$important
+@@||*.googlevideo.com^
+@@||youtubei.googleapis.com^
+@@||www.youtube.com^$important,document
 @@||ecosia.org^$important
 @@||*.ecosia.org^$important
 @@||*.adguard.com^
