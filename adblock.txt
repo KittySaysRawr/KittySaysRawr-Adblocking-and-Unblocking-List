@@ -338,6 +338,8 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||*.protonmail.ch^
 @@||pm.me^
 @@||*.pm.me^
+@@||gmpf.org.uk^$important
+@@||*.gmpf.org.uk^$important
 @@||*.discord.com^
 @@||discord.com^
 @@||*.cloudflaressl.com^$important
