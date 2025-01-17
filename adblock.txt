@@ -262,12 +262,12 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 
 ! Allow-list:
 
-@@||*.youtube.com^$important,document
-@@||youtube.com^$important
-@@||img.youtube.com^$important
-@@||*.googlevideo.com^
-@@||youtubei.googleapis.com^
-@@||www.youtube.com^$important,document
+! @@||*.youtube.com^$important,document
+! @@||youtube.com^$important
+! @@||img.youtube.com^$important
+! @@||*.googlevideo.com^
+! @@||youtubei.googleapis.com^
+! @@||www.youtube.com^$important,document
 @@||ecosia.org^$important
 @@||*.ecosia.org^$important
 @@||*.adguard.com^
@@ -304,7 +304,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||teams.microsoft.com^$important
 @@||update.code.visualstudio.com^$important
 @@||store-site-backend-static.ak.epicgames.com^$important
-@@||storage.cloud.google.com^$important
+! @@||storage.cloud.google.com^$important
 @@||steamcdn-a.akamaihd.net^$important
 @@||steamcommunity-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
@@ -448,7 +448,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||secure.gravatar.com^
 @@||*.hcaptcha.com^
 @@||hcaptcha.com^^
-@@||apis.google.com^
+! @@||apis.google.com^
 @@||fonts.googleapis.com^
 @@||ssl.gstatic.com^
 @@||ogs.google.co.uk^
@@ -468,11 +468,11 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||yt3.ggpht.com^
 @@||i.ytimg.com^
 @@||gateway.icloud.com^
-@@||googleapis.l.google.com^
+! @@||googleapis.l.google.com^
 @@||androidpay-users-pa.googleapis.com^
-@@||www.googleapis.com^
-@@||googlehosted.l.googleusercontent.com^
-@@||apidata.googleusercontent.com^
+! @@||www.googleapis.com^
+! @@||googlehosted.l.googleusercontent.com^
+! @@||apidata.googleusercontent.com^
 @@||wd-prod-ss-eu-west-2-fe.westeurope.cloudapp.azure.com^
 @@||eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com^
 @@||imap-mail.outlook.com^
