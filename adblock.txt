@@ -198,41 +198,6 @@
 
 ! Element-Block-list:
 
-nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_1_N\/NEX0728x0090_1_N_WindowLoadedTest-A_0
-nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:first-child
-nexusmods.com###primis_playerSekindoSPlayer5fdef1c90aa72
-nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_3_N\/NEX0728x0090_3_N_WindowLoadedTest-A_0
-nexusmods.com##div.wrapper:nth-child(14) > section.static.gameindex:nth-child(2) > div.agroup.clearfix:nth-child(6) > div.ads:first-child > div.ad.demo-billboard.ad-unit:last-child
-nexusmods.com###qc-cmp2-persistent-link
-nexusmods.com###google_ads_iframe_\/13326244\/NEX0728x0090_2_N\/NEX0728x0090_2_N_WindowLoadedTest-A_0
-nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5) > div.ads:first-child
-nexusmods.com##.ads
-nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
-nexusmods.com##.qc-cmp2-persistent-link
-nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5)
-nexusmods.com###primis_playerSekindoSPlayer5fdef31180a5d
-younow.com##modal-container.modal.fade.show:last-child > div.modal-dialog.small > div.modal-content > app-modal-non-payer > div.modal-body
-younow.com##modal-container.modal.fade:last-child
-clipwatching.com###container > div:nth-child(11) > div.hidden-xs:last-child
-clipwatching.com###content
-clipwatching.com###container > p:nth-child(7)
-clipwatching.com###_header
-clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child > div.container-fluid
-clipwatching.com##nav.navbar.navbar-default.navbar-static-top:first-child
-clipwatching.com##footer:nth-child(4) > div.container-fluid
-nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:first-child
-nexusmods.com###transparentInner
-nexusmods.com###transparentCover
-nexusmods.com###videoContainerDiv > img:last-child
-nexusmods.com###videoContainerDiv > div:first-child > video
-nexusmods.com###playBtn
-nexusmods.com###videoContainerDiv > div:first-child
-nexusmods.com###videoContainerDiv
-nexusmods.com###Video-iFrame-SekindoSPlayer5fdef42229157
-nexusmods.com###primis_playerSekindoSPlayer5fdef42229157
-nexusmods.com###qc-cmp2-persistent-link
-nexusmods.com##div.wrapper:nth-child(14) > div.agroup.clearfix:nth-child(5) > div.ads:first-child > div.ad.demo-billboard.ad-unit:last-child
-nexusmods.com##div.wrapper:nth-child(14) > div.video-ad.clearfix:nth-child(4)
 speedof.me##div.background-container:nth-child(4) > div.test-ad-container:nth-child(6)
 speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.left-footer:nth-child(9)
 speedof.me##div.background-container:nth-child(4) > div.api-ad-footer.right-footer:nth-child(10)
@@ -252,13 +217,13 @@ speedtest.net###container > div.pre-fold.mobile-test-complete:first-child > div.
 fast.com##div.wrapper:first-child > div.powered-by-container:last-child
 fast.com##div.wrapper:first-child > div.logo-container:first-child
 hertfordshiremercury.co.uk##div.ybjitdmdwafc:nth-child(37)
-gomovies.sx###modalshare > div.modal-dialog.modal-dialog-centered > div.modal-content
-gomovies.sx###modalshare > div.modal-dialog.modal-dialog-centered
-gomovies.sx###modalshare
-gomovies.sx##div.modal-backdrop.show:nth-child(19)
-gomovies.sx###main-wrapper > div.watching:first-child > div.container > div.alert.mb-3:nth-child(3)
-gomovies.sx##div.modal-backdrop.show:last-child
-gomovies.sx##div.modal-backdrop.show:nth-child(15)
+gomovies.ms###modalshare > div.modal-dialog.modal-dialog-centered > div.modal-content
+gomovies.ms###modalshare > div.modal-dialog.modal-dialog-centered
+gomovies.ms###modalshare
+gomovies.ms##div.modal-backdrop.show:nth-child(19)
+gomovies.ms###main-wrapper > div.watching:first-child > div.container > div.alert.mb-3:nth-child(3)
+gomovies.ms##div.modal-backdrop.show:last-child
+gomovies.ms##div.modal-backdrop.show:nth-child(15)
 
 ! Allow-list:
 
@@ -280,18 +245,10 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||cloudflare-dns.com^
 @@||*.cloudflare-dns.com^
 @@||cloudflare-dns.com^$important
-@@||*.cloudflare-dns.com^$important
-@@||dashlane.com^
-@@||*.dashlane.com^
-@@||dashlane.com^
+@@||*.cloudflare-dns.com^$important
 @@||*.honeygain.com^$important
-@@||honeygain.com^
-@@||www.netflix.com^$important,document
-@@||netflix.com$important
-@@||192.168.3.1^$important,document
-@@||www.peacocktv.com^$important,document
-@@||www.vodafone.co.uk^$important,document
-@@||192.168.0.1^$important,document
+@@||honeygain.com^
+@@||www.peacocktv.com^$important,document
 @@||captcha.website^$important,document
 @@||secure.lloydsbank.co.uk^$important,document
 @@||github.com^
@@ -334,9 +291,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||*.wigan.gov.uk^
 @@||wigan.gov.uk^
 @@||cusecureserver.co.uk^
-@@||*.cusecureserver.co.uk^$important
-@@||*.unifycu.org^
-@@||unifycu.org^
+@@||*.cusecureserver.co.uk^$important
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
@@ -366,9 +321,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||lptag.liveperson.net^
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
-@@||h-lloydsbank.online-metrix.net^$important
-@@||192.168.1.1^$important,document
-@@||192.168.1.104^$important,document
+@@||h-lloydsbank.online-metrix.net^$important
 @@||time-macos.apple.com^
 @@||time.nist.gov^
 @@||*.nist.gov^$important
@@ -461,8 +414,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||*.bbci.co.uk^
 @@||vod-thumb-uk-live.bbcfmt.s.llnwi.net^
 @@||steamcloud-eu-fra.storage.googleapis.com^
-@@||update.googleapis.com^
-@@||*.windscribe.com^
+@@||update.googleapis.com^
 @@||api.bethesda.net^
 @@||api1.origin.com^
 @@||yt3.ggpht.com^
@@ -495,14 +447,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||m.root-servers.net^
 @@||recaptcha.net^
 @@||*.recaptcha.net^
-@@||sponsor.ajay.app^
-@@||*.netflix.com^
-@@||netflix.com^
-@@||*.nflxvideo.net^
-@@||nflxvideo.net^
-@@||nflxso.net^
-@@||*.nflxso.net^
-@@||main--pastul.netlify.app^$important,document
+@@||sponsor.ajay.app^
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
 @@||*.raspberrypi.org^
@@ -518,14 +463,7 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 @@||*.wigan.ovh^$important,document
 @@||pastul.speedtestcustom.com^
 @@||*.secureage.com^$important
-@@||*.adtidy.org^$important
-@@||sentry.jumptask.io^
-@@||*.jumptask.io^
-@@||metamask.github.io^
-@@||api.coingecko.com^
-@@||min-api.cryptocompare.com^
-@@||pastul.co.uk^
-@@||*.pastul.co.uk^
+@@||*.adtidy.org^$important
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
@@ -533,19 +471,11 @@ gomovies.sx##div.modal-backdrop.show:nth-child(15)
 
 @@||account.microsoft.com^$important,document
 @@||join.greenparty.org.uk^$important,document
-@@||192.168.3.101^$important,document
-@@||seonify.com^$important,document
+@@||192.168.3.101^$important,document
 @@||motoring.dvla.gov.uk^$important,document
-@@||*.treecard.org^$important,document
-@@||treecard.org^$important,document
-@@||luno.sng.link^$important,document
-@@||www.luno.com^$important,document
 @@||partner.microsoft.com^$important,document
-@@||userstyles.org^$important,document
-@@||192.168.3.101^$important,document
+@@||userstyles.org^$important,document
 @@||www.mobiles.co.uk^$important,document
-@@||freeloadbalancer.com^$important,document
-@@||logon.slc.co.uk^$important,document
-@@||www.student-finance.service.gov.uk^$important,document
+@@||freeloadbalancer.com^$important,document
 @@||www.tax.service.gov.uk^$important,document
 @@||edge.activity.windows.com^$important
