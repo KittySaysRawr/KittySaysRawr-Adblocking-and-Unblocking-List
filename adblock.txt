@@ -245,10 +245,14 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||cloudflare-dns.com^
 @@||*.cloudflare-dns.com^
 @@||cloudflare-dns.com^$important
-@@||*.cloudflare-dns.com^$important
+@@||*.cloudflare-dns.com^$important
+
 @@||*.honeygain.com^$important
-@@||honeygain.com^
-@@||www.peacocktv.com^$important,document
+@@||honeygain.com^
+
+
+@@||www.peacocktv.com^$important,document
+
 @@||captcha.website^$important,document
 @@||secure.lloydsbank.co.uk^$important,document
 @@||github.com^
@@ -291,7 +295,8 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.wigan.gov.uk^
 @@||wigan.gov.uk^
 @@||cusecureserver.co.uk^
-@@||*.cusecureserver.co.uk^$important
+@@||*.cusecureserver.co.uk^$important
+
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
@@ -312,8 +317,6 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.cloudflaressl.com^$important
 @@||*.nexusmods.com^
 @@||safebrowsing.googleapis.com^
-@@||www.clicksafe.lloydstsb.com^
-@@||*.lloydstsb.com^
 @@||bcdn-16c9d93d.lloydsbank.co.uk^$important
 @@||lloydsbankinggroup.d3.sc.omtrdc.net^$important
 @@||*.lloydsbank.co.uk^$important
@@ -321,7 +324,8 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||lptag.liveperson.net^
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
-@@||h-lloydsbank.online-metrix.net^$important
+@@||h-lloydsbank.online-metrix.net^$important
+
 @@||time-macos.apple.com^
 @@||time.nist.gov^
 @@||*.nist.gov^$important
@@ -414,11 +418,12 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.bbci.co.uk^
 @@||vod-thumb-uk-live.bbcfmt.s.llnwi.net^
 @@||steamcloud-eu-fra.storage.googleapis.com^
-@@||update.googleapis.com^
+@@||update.googleapis.com^
+
 @@||api.bethesda.net^
 @@||api1.origin.com^
-@@||yt3.ggpht.com^
-@@||i.ytimg.com^
+!@@||yt3.ggpht.com^
+!@@||i.ytimg.com^
 @@||gateway.icloud.com^
 ! @@||googleapis.l.google.com^
 @@||androidpay-users-pa.googleapis.com^
@@ -447,7 +452,9 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||m.root-servers.net^
 @@||recaptcha.net^
 @@||*.recaptcha.net^
-@@||sponsor.ajay.app^
+@@||sponsor.ajay.app^
+
+
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
 @@||*.raspberrypi.org^
@@ -459,11 +466,12 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.raspbian.org^
 @@||raspbian.org^
 @@||userstyles.org^
-@@||wigan.ovh^$important,document
-@@||*.wigan.ovh^$important,document
 @@||pastul.speedtestcustom.com^
 @@||*.secureage.com^$important
-@@||*.adtidy.org^$important
+@@||*.adtidy.org^$important
+@@||*.greenmeans.ovh^$important
+@@||greenmeans.ovh^$important
+
 
 ! Misc Unblocking/Blocking
 ! Items here could be duplicates
@@ -471,11 +479,14 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 
 @@||account.microsoft.com^$important,document
 @@||join.greenparty.org.uk^$important,document
-@@||192.168.3.101^$important,document
+
 @@||motoring.dvla.gov.uk^$important,document
 @@||partner.microsoft.com^$important,document
-@@||userstyles.org^$important,document
+@@||userstyles.org^$important,document
+
 @@||www.mobiles.co.uk^$important,document
-@@||freeloadbalancer.com^$important,document
+@@||freeloadbalancer.com^$important,document
+
 @@||www.tax.service.gov.uk^$important,document
 @@||edge.activity.windows.com^$important
+
