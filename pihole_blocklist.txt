@@ -1,112 +1,117 @@
-
-0.0.0.0 contributor.google.com
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 wedosavings.co.uk
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 buysellads.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.co.uk
-0.0.0.0 microshop.ionos.co.uk
-0.0.0.0 doubleclick.net
-0.0.0.0 google-analytics.com
-0.0.0.0 google-analytics.co.uk
-0.0.0.0 siteimprove.com
-0.0.0.0 hotjar.com
-0.0.0.0 scorecardresearch.com
-0.0.0.0 getclicky.com
-0.0.0.0 advertising.amazon.co.uk
-0.0.0.0 advertising.amazon.com
-0.0.0.0 license.piriform.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 adlightning.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 uimserv.net
-0.0.0.0 omtrdc.net
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads-twitter.com
-0.0.0.0 outbrain.com
-0.0.0.0 demdex.net
-0.0.0.0 mybbc-analytics.files.bbci.co.uk
-0.0.0.0 trackjs.com
-0.0.0.0 quantserve.com
-0.0.0.0 appboy-images.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device-metrics-us.amazon.co.uk
-0.0.0.0 pubmatic.com
-0.0.0.0 casalemedia.com
-0.0.0.0 extreme-dm.com
-0.0.0.0 theonecdn.com
-0.0.0.0 tapjoy.com
-0.0.0.0 analytics.ff.avast.com
-0.0.0.0 braze.com
-0.0.0.0 spotxchange.com
-0.0.0.0 split.io
-0.0.0.0 rubiconproject.com
-0.0.0.0 amazon-adsystem.com
-0.0.0.0 amazon-adsystem.co.uk
-0.0.0.0 topblockchainsolutions.nl
-0.0.0.0 customer.io
-0.0.0.0 test-iq.org
-0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 logs.dashlane.com
-0.0.0.0 fe-shop.ru
-0.0.0.0 feacc-18.ru
-0.0.0.0 feacc-18.su
-0.0.0.0 aaxads.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 logx.optimizely.com
-0.0.0.0 app-measurement.com
-0.0.0.0 prd-collector-anon.ex.co
-0.0.0.0 crashlytics.com
-0.0.0.0 bugfender.com
-0.0.0.0 presage.io
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 supersonicads.com
-0.0.0.0 quantummetric.com
-0.0.0.0 flurry.com
-0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 appbaqend.com
-0.0.0.0 applovin.com
-0.0.0.0 adcolony.com
-0.0.0.0 applvn.com
-0.0.0.0 bidmachine.io
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 urbanairship.com
-0.0.0.0 googleadservices.com
-0.0.0.0 afs.googlesyndication.com
-0.0.0.0 tracker.opentrackr.org
-0.0.0.0 tracker.0x.tf
-0.0.0.0 iframe-thesun-co-uk.cdn.ampproject.org
-0.0.0.0 www-thesun-co-uk.cdn.ampproject.org
-0.0.0.0 tracker.dler.org
-0.0.0.0 tracker.openbittorrent.com
-0.0.0.0 open.stealth.si
-0.0.0.0 tracker.coppersurfer.tk
-0.0.0.0 opentracker.i2p.rocks
-0.0.0.0 puzzles.msn.com
-0.0.0.0 corona.channel5.com
-0.0.0.0 mixpanel.com
-0.0.0.0 edigitalsurvey.com
-0.0.0.0 test.com
-0.0.0.0 astrill4u.com
-0.0.0.0 astrill.org
-0.0.0.0 ads.yahoo.com
-0.0.0.0 udc.yahoo.com
-0.0.0.0 udcm.yahoo.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 log.fc.yahoo.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 adtech.yahooinc.com
-0.0.0.0 appmetrica.yandex.ru
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 dynatrace.com
-0.0.0.0 soldbyphonder.com
-0.0.0.0 track.taimi.com
-0.0.0.0 telegraph.co.uk
-0.0.0.0 thetimes.co.uk
-0.0.0.0 thesundaytimes.co.uk
-0.0.0.0 express.co.uk
-0.0.0.0 thesun.co.uk
-0.0.0.0 dailymail.co.uk
-0.0.0.0 thescottishsun.co.uk
+(^|\.)contributor\.google\.com$
+(^|\.)fundingchoicesmessages\.google\.com$
+(^|\.)wedosavings\.co\.uk$
+(^|\.)telemetry\.microsoft\.com$
+(^|\.)buysellads\.com$
+(^|\.)adservice\.google\.com$
+(^|\.)adservice\.google\.co\.uk$
+(^|\.)microshop\.ionos\.co\.uk$
+(^|\.)doubleclick\.net$
+(^|\.)google-analytics\.com$
+(^|\.)google-analytics\.co\.uk$
+(^|\.)siteimprove\.com$
+(^|\.)hotjar\.com$
+(^|\.)scorecardresearch\.com$
+(^|\.)getclicky\.com$
+(^|\.)advertising\.amazon\.co\.uk$
+(^|\.)advertising\.amazon\.com$
+(^|\.)license\.piriform\.com$
+(^|\.)metrics\.icloud\.com$
+(^|\.)adlightning\.com$
+(^|\.)ads\.pinterest\.com$
+(^|\.)uimserv\.net$
+(^|\.)omtrdc\.net$
+(^|\.)ads-twitter\.com$
+(^|\.)ads-api\.twitter\.com$
+(^|\.)outbrain\.com$
+(^|\.)demdex\.net$
+(^|\.)mybbc-analytics\.files\.bbci\.co\.uk$
+(^|\.)trackjs\.com$
+(^|\.)quantserve\.com$
+(^|\.)appboy-images\.com$
+(^|\.)device-metrics-us\.amazon\.com$
+(^|\.)device-metrics-us\.amazon\.co\.uk$
+(^|\.)pubmatic\.com$
+(^|\.)casalemedia\.com$
+(^|\.)extreme-dm\.com$
+(^|\.)theonecdn\.com$
+(^|\.)tapjoy\.com$
+(^|\.)analytics\.ff\.avast\.com$
+(^|\.)braze\.com$
+(^|\.)spotxchange\.com$
+(^|\.)split\.io$
+(^|\.)rubiconproject\.com$
+(^|\.)amazon-adsystem\.com$
+(^|\.)amazon-adsystem\.co\.uk$
+(^|\.)topblockchainsolutions\.nl$
+(^|\.)customer\.io$
+(^|\.)test-iq\.org$
+(^|\.)app-analytics-v2\.snapchat\.com$
+(^|\.)logs\.dashlane\.com$
+(^|\.)fe-shop\.ru$
+(^|\.)feacc-18\.ru$
+(^|\.)feacc-18\.su$
+(^|\.)aaxads\.com$
+(^|\.)googletagservices\.com$
+(^|\.)amazon-adsystem\.com$
+(^|\.)logx\.optimizely\.com$
+(^|\.)app-measurement\.com$
+(^|\.)googletagmanager\.com$
+(^|\.)prd-collector-anon\.ex\.co$
+(^|\.)crashlytics\.com$
+(^|\.)bugfender\.com$
+(^|\.)presage\.io$
+(^|\.)firebaselogging-pa\.googleapis\.com$
+(^|\.)supersonicads\.com$
+(^|\.)quantummetric\.com$
+(^|\.)flurry\.com$
+(^|\.)unityads\.unity3d\.com$
+(^|\.)cdp\.cloud\.unity3d\.com$
+(^|\.)config\.uca\.cloud\.unity3d\.com$
+(^|\.)appbaqend\.com$
+(^|\.)applovin\.com$
+(^|\.)adcolony\.com$
+(^|\.)applvn\.com$
+(^|\.)bidmachine\.io$
+(^|\.)vortex\.data\.microsoft\.com$
+(^|\.)urbanairship\.com$
+(^|\.)googleadservices\.com$
+(^|\.)bugsnag\.com$
+(^|\.)nexage\.com$
+(^|\.)afs\.googlesyndication\.com$
+(^|\.)google-analytics\.com\.com$
+(^|\.)tracker\.opentrackr\.org$
+(^|\.)tracker\.0x\.tf$
+(^|\.)iframe-thesun-co-uk\.cdn\.ampproject\.org$
+(^|\.)www-thesun-co-uk\.cdn\.ampproject\.org$
+(^|\.)tracker\.dler\.org$
+(^|\.)tracker\.openbittorrent\.com$
+(^|\.)open\.stealth\.si$
+(^|\.)tracker\.coppersurfer\.tk$
+(^|\.)opentracker\.i2p\.rocks$
+(^|\.)puzzles\.msn\.com$
+(^|\.)corona\.channel5\.com$
+(^|\.)mixpanel\.com$
+(^|\.)edigitalsurvey\.com$
+(^|\.)test\.com$
+(^|\.)astrill4u\.com$
+(^|\.)astrill\.org$
+(^|\.)ads\.yahoo\.com$
+(^|\.)udc\.yahoo\.com$
+(^|\.)udcm\.yahoo\.com$
+(^|\.)partnerads\.ysm\.yahoo\.com$
+(^|\.)log\.fc\.yahoo\.com$
+(^|\.)gemini\.yahoo\.com$
+(^|\.)adtech\.yahooinc\.com$
+(^|\.)appmetrica\.yandex\.ru$
+(^|\.)metrika\.yandex\.ru$
+(^|\.)dynatrace\.com$
+(^|\.)soldbyphonder\.com$
+(^|\.)track\.taimi\.com$
+(^|\.)telegraph\.co\.uk$
+(^|\.)thetimes\.co\.uk$
+(^|\.)thesundaytimes\.co\.uk$
+(^|\.)express\.co\.uk$
+(^|\.)thesun\.co\.uk$
+(^|\.)dailymail\.co\.uk$
+(^|\.)thescottishsun\.co\.uk$
