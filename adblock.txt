@@ -459,6 +459,10 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.adtidy.org^$important
 @@||*.greenmeans.ovh^$important
 @@||greenmeans.ovh^$important
+@@||join.greenparty.org.uk^$important
+@@||*.greenparty.org.uk^$important
+@@||www.greenpartydrugpolicy.org.uk^$important
+@@||*.greenpartydrugpolicy.org.uk^$important
 
 
 ! Misc Unblocking/Blocking
@@ -466,7 +470,6 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 ! Items here will be sorted into the correct place
 
 @@||account.microsoft.com^$important,document
-@@||join.greenparty.org.uk^$important,document
 
 @@||motoring.dvla.gov.uk^$important,document
 @@||partner.microsoft.com^$important,document
