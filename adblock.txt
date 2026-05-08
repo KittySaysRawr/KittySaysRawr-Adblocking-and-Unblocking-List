@@ -1,6 +1,6 @@
 ! Adblocking/Unblocking List
-! Credits: Pastul Inc ©
-! Website: https://pastul.xyz
+! Credits: GreenMeans ©
+! Website: https://greenmeans.ovh
 
 ! Block-list:
 
@@ -246,13 +246,9 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||*.cloudflare-dns.com^
 @@||cloudflare-dns.com^$important
 @@||*.cloudflare-dns.com^$important
-
 @@||*.honeygain.com^$important
 @@||honeygain.com^
-
-
 @@||www.peacocktv.com^$important,document
-
 @@||captcha.website^$important,document
 @@||secure.lloydsbank.co.uk^$important,document
 @@||github.com^
@@ -292,15 +288,11 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||bbc.co.uk^
 @@||*.bbc.co.uk^
 @@||*.bbc.com^
-@@||*.wigan.gov.uk^
-@@||wigan.gov.uk^
 @@||cusecureserver.co.uk^
 @@||*.cusecureserver.co.uk^$important
-
 @@||*.ca-central-1.prod.ecosia.org^
 @@||*.eu-central-1.prod.ecosia.org^
 @@||*.us-east-1.prod.ecosia.org^
-@@||housingonline.wigan.gov.uk^$important,document
 @@||protonmail.com^
 @@||*.protonmail.com^
 @@||*.protonmail.ch^
@@ -325,7 +317,6 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
 @@||h-lloydsbank.online-metrix.net^$important
-
 @@||time-macos.apple.com^
 @@||time.nist.gov^
 @@||*.nist.gov^$important
@@ -419,7 +410,6 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||vod-thumb-uk-live.bbcfmt.s.llnwi.net^
 @@||steamcloud-eu-fra.storage.googleapis.com^
 @@||update.googleapis.com^
-
 @@||api.bethesda.net^
 @@||api1.origin.com^
 !@@||yt3.ggpht.com^
@@ -453,8 +443,6 @@ gomovies.ms##div.modal-backdrop.show:nth-child(15)
 @@||recaptcha.net^
 @@||*.recaptcha.net^
 @@||sponsor.ajay.app^
-
-
 @@||telephonyspamprotect-pa.googleapis.com^
 @@||android-safebrowsing.google.com^
 @@||*.raspberrypi.org^
